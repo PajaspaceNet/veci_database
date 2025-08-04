@@ -58,7 +58,14 @@ db_config = {
 <img width="1012" height="538" alt="ukazka_CRUD a vystupu" src="https://github.com/user-attachments/assets/cec5b28a-e496-41c7-955d-87e5ee307407" />
 
 *******************************************************************************************************************
-*******************************************************************************************************************
+#### Posible to delete each row in frontend
+
+<img width="1222" height="94" alt="delete_moznost" src="https://github.com/user-attachments/assets/b76bfd58-ce03-44f5-9058-931b6a03e1f9" />
+
+
+
+
+**********************************************************************************************************************
 
 #### preview of dynamic table , you choose porcelan 
 
